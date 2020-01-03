@@ -1,4 +1,4 @@
- [
+  [
         {
             "name": "Naruto: Shippuuden",
             "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
@@ -6,7 +6,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDkct38sSFSWJIATlfJw0l3QOIR.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
         },
         {
             "name": "One Piece",
@@ -15,7 +15,7 @@
             "episode": 700,
              "categorie":"Animation | Drama | Adventure",
             "studio":"Toei Animation",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/335fmCjQq4jRZK2QR3ZVJ84yYO0.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
         },
         {
             "name": "Attack on Titan",
@@ -24,16 +24,16 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Wit Studio",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlbcGr0EYKRICD0MTrIwnIztQna.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
         },
         {
-            "name": "Rick and Morty",
-            "description": "Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
-            "Rating": "9.16",
-            "episode": 50,
-            "categorie":"Animation | Comedy | Adventure",
-            "studio":"Abc",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg"
+            "name": "Monster",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "8.16",
+            "episode": 70,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Madhouse",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
         },
         {
             "name": "Death Note",
@@ -42,7 +42,7 @@
             "episode": 500,
             "categorie":"Animation | Adventure",
             "studio":"Madhouse",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8hHbsRmHYoWYizhWCk87vpkrmy.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
         },
         {
             "name": "Violet Evergarden",
@@ -51,16 +51,16 @@
             "episode": 14,
             "categorie":"Fantasy | Drama ",
             "studio":"Kyoto Animation",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ImvHbM4GsJJykarnOzhtpG6ax6.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
         },
         {
             "name": "Tokyo Ghoul",
-            "description": "Ken Kaneki is a bookworm college student who meets a girl names Rize at a cafe he frequents. They're the same age and have the same interests, so they quickly become close. Little does Kaneki know that Rize is a ghoul - a kind of monster that lives by hunting and devouring human flesh. When part of her special organ - "the red child" - is transplanted into Kaneki, he becomes a ghoul himself, trapped in a warped world where humans are not the top of the food chain.",
+            "description": "",
             "Rating": "8.01",
             "episode": 12,
             "categorie":"Action | Mystery",
             "studio":"Studio Pierrot",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUtFWNCJCflNTbvac4w6Qyzh43w.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
         },
         {
             "name": "Black Clover",
@@ -69,7 +69,7 @@
             "episode": 51,
             "categorie":"Magic | Shounen | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
         },
         {
             "name": "Sword Art Online",
@@ -78,7 +78,7 @@
             "episode": 25,
             "categorie":"Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEeTQpAJkf8ztwL56z5ACe3qd7E.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
         },
         {
             "name": "Nanatsu no Taizai",
@@ -87,7 +87,7 @@
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxTojpKEOtue85EEFlozwRbDXwJ.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
         },
         {
             "name": "Kiseijuu: Sei no Kakuritsu",
@@ -96,7 +96,7 @@
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLuWoomsag1s5wX2SSamHTnk348.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
         },
         {
             "name": "Hunter x Hunter (2011)",
@@ -105,7 +105,7 @@
             "episode": 148,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8KcK1f3Uxj5Rp86d9XQLsG69ZX.jpg"
+            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
         }
 
     ]
