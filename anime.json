@@ -29,10 +29,10 @@
         {
             "name": "Rick and Morty",
             "description": "Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
-            "Rating": "8.16",
+            "Rating": "9.16",
             "episode": 50,
             "categorie":"Animation | Comedy | Adventure",
-            "studio":"Madhouse",
+            "studio":"-",
             "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg"
         },
         {
@@ -55,7 +55,7 @@
         },
         {
             "name": "Tokyo Ghoul",
-            "description": "",
+            "description": "Ken Kaneki is a bookworm college student who meets a girl names Rize at a cafe he frequents. They're the same age and have the same interests, so they quickly become close. Little does Kaneki know that Rize is a ghoul - a kind of monster that lives by hunting and devouring human flesh. When part of her special organ - "the red child" - is transplanted into Kaneki, he becomes a ghoul himself, trapped in a warped world where humans are not the top of the food chain.",
             "Rating": "8.01",
             "episode": 12,
             "categorie":"Action | Mystery",
